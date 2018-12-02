@@ -1,0 +1,95 @@
+#oooo ooooo o ooo|oooooooo
+#md   mg    pd   octv
+(-1): si
+xxxo xoxox o xxx
+0:do
+xxxo xoxox o xxo
+1:do#
+xxxo xoxox o xoo
+2:ré
+xxxo xoxox o ooo
+3:ré#
+xxxo xoxox x ooo
+4:mi
+xxxo xoxoo d ooo
+5:fa
+#trill with f#
+xxxo xoood d ooo
+#trill with c#, c et b
+xxxo xooox d xdo
+xxxo xooox d xxx
+6:fa#
+xxxo ooxod d ooo
+xxxo oodox d ooo
+7:sol
+xxxo ooooo d ooo
+8:sol#
+xxxx dodod d ooo
+xxxx xoxox o xdo
+xxxx xoxox o xxx
+9:la
+
+xxod oodod d ooo
+xxod doood d ooo
+xxod xoxox o xdo
+xxod xoxox o xxx
+
+10:sib
+xodd xodod d ooo
+xood xoxox o xdo
+xood xoxox o xxx
+
+11:si
+xood oodod d ooo
+xood ooxox o xdo
+xood ooxox o xxx
+
+12:do2
+oxod dodod d ooo
+oxod xoxox o xdo
+oxod xoxox o xxx
+
+13:do#2
+#lol
+oddd dodod d ooo
+oddd xoxox o xdo
+oddd xoxox o xxx
+
+14:ré2
+oxxo dodod d ooo
+oxxo xoxox o xdo
+oxxo xoxox o xxx
+
+15:ré#2
+oxxx xoxox x ooo
+oxxx ooooo x ooo
+oxxo odoxo x ooo
+
+16:mi2
+xxox xoxoo d ooo
+
+17:fa2
+xoxo xoooo d ooo
+
+18:fa#
+xoxo oooox d ooo
+
+# octave modifiers
++12:
+|xooooooo
++24:
+|xxoooooo
++36:
+|oxxooooo
++48:
+|ooxxoooo
++60:
+|oooxxooo
++72:
+|ooooxxoo
++84:
+|oooooxxo
++96:
+|ooooooxx
++108:
+|ooooooox
